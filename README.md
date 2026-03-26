@@ -97,12 +97,6 @@ java Main
 
 Bijaya Yadav
 [GitHub Profile](https://github.com/bijayadav4)
-```
-
----
-
-### `.gitignore` — Tells Git what NOT to upload
-```
 # Compiled class files
 *.class
 
@@ -123,9 +117,6 @@ Bijaya Yadav
 # OS files
 .DS_Store
 Thumbs.db
-```
-
-### `LICENSE` — Marks it as your work (optional but good practice)
 ```
 MIT License
 
